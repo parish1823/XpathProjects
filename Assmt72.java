@@ -19,5 +19,6 @@ ChromeDriver driver=new ChromeDriver();
 	   
 
 	}
+	driver.close();
 
 }
